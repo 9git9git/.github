@@ -1,12 +1,27 @@
-## Hi there 👋
+# 🚀 프로젝트 이름 (Project Name)
+<h3>📌 프로젝트 한 줄 소개</h3>
+<span style="color:blue">이 프로젝트는 ..입니다.</span>
 
-<!--
+## 🎯 프로젝트 목표:
+• 🌍 해결하고자 하는 문제
+• 💡 이 프로젝트의 핵심 기능
+  - ✅ 핵심 기능 1: 설명
+  - ✅ 핵심 기능 2: 설명
+  - ✅ 핵심 기능 3: 설명
 
-**Here are some ideas to get you started:**
+## 🔧 사용 기술
+### ⚙️ 언어 & 프레임워크
+### 🛠️ 주요 라이브러리
+### ☁️ 배포 환경
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 팀원 소개 (Team Members)
+(팀원 정보 업데이트 필요 👉 정민님 setting)
+
+## 📜 라이선스 (License)
+📝 MIT License 하에 제공됩니다. LICENSE 파일(파일 생성 필요)을 확인해주세요!
+
+## 🤝 기여방법 (Contributing)
+프로젝트 기여 방법은 [CONTRIBUTING.MD 업로드 필요]를 참고해주세요.
+
+## 📞 Support
+문제가 있거나 도움이 필요하면 [이슈](링크)를 생성해주세요!

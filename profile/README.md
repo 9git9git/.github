@@ -16,12 +16,12 @@
 
 ### ✨ 주요 기능
 
-| 기능 | 설명 | 이모지 |
-|------|------|--------|
-| Todo 관리 | Todo와 메모를 카테고리별로 관리 | 📅 |
-| 분석 | Todo과 메모를 기반으로 한 통계 및 분석 | 📊 |
-| AI 챗봇 | 3가지 전문 챗봇을 기반으로 한 맞춤형 추천 | 🤖 |
-| 프로필 | 사용자 정보 및 설정 관리 | 👤 |
+| 기능 | 설명 |
+|------|------|
+| 📅 Todo 관리 | Todo와 메모를 카테고리별로 관리 |
+| 📊 분석 | Todo과 메모를 기반으로 한 통계 및 분석 |
+| 🤖 AI 챗봇 | 3가지 전문 챗봇을 기반으로 한 맞춤형 추천 |
+| 👤 프로필 | 사용자 정보 및 설정 관리 |
 
 ## 👥 팀원 소개
 
@@ -106,10 +106,10 @@
 
 ## 🚀 배포 환경
 
-| 서비스 | URL | 상태 | 이모지 |
-|--------|-----|------|--------|
-| 프론트엔드 | https://gugit-frontend-test-aca.calmforest-521dd431.eastus.azurecontainerapps.io | 비활성화 | 🔴 |
-| 백엔드 | https://gugit-backend-test-aca.calmforest-521dd431.eastus.azurecontainerapps.io | 비활성화 | 🔴 |
+| 서비스 | URL | 상태 |
+|--------|-----|------|
+| 프론트엔드 | https://gugit-frontend-test-aca.calmforest-521dd431.eastus.azurecontainerapps.io | 비활성화 🔴 |
+| 백엔드 | https://gugit-backend-test-aca.calmforest-521dd431.eastus.azurecontainerapps.io | 비활성화 🔴 |
 
 > ⚠️ 현재 배포 서비스는 비활성화 상태입니다.
 

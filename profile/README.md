@@ -33,6 +33,8 @@
 
 <div align="center">
 
+[![Build, Push Frontend Image to ACR and Trigger Deployment](https://github.com/9git9git/9git-frontend/actions/workflows/upload_docker_image_to_acr.yml/badge.svg)](https://github.com/9git9git/9git-frontend/actions/workflows/upload_docker_image_to_acr.yml)
+
 ![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?logo=tailwind-css)
@@ -49,6 +51,8 @@
 ### ⚙️ 9git-backend
 
 <div align="center">
+  
+[![Build, Push Backend Image to ACR and Trigger Deployment](https://github.com/9git9git/9git-backend/actions/workflows/upload_docker_image_to_acr.yml/badge.svg)](https://github.com/9git9git/9git-backend/actions/workflows/upload_docker_image_to_acr.yml)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115.12-009688?logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)

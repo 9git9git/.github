@@ -81,7 +81,7 @@
   - [이규호(lead)](https://github.com/codingorijazz)
   - [김기덕](https://github.com/GideokKim)
   - [배채은](https://github.com/chaeengg)
-  - [이희주](https://github.com/heejulee)
+  - [이희주](https://github.com/YiHeeJu)
 
 ### 🚀 9git-devops
 
